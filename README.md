@@ -1,6 +1,6 @@
 # Buscador de películas y series
 
-Este es un portafolio básico personal desarrollado con HTML, CSS y JavaScript.
+Este es un buscador de películas y series desarrollado con HTML, CSS y JavaScript.
 
 ## Índice
 - [Descripción](#descripción)
