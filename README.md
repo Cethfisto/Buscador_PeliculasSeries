@@ -1,6 +1,6 @@
 # Buscador de películas y series
 
-Este es un buscador de películas y series desarrollado con HTML, CSS y JavaScript.
+Este es un proyecto, que consiste en buscador de películas y series desarrollado con HTML, CSS y JavaScript.
 
 ## Índice
 - [Descripción](#descripción)
