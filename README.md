@@ -26,7 +26,7 @@ Tiene funciones limitadas pero con el tiempo, tengo previsto añadir más mejora
 
 ## Uso
 
-Abre el archivo `bmsindex.html` en tu navegador para ver el portafolio.
+Abre el archivo `bmsindex.html` en tu navegador para usar el buscador.
 
 ## Tecnologías
 
