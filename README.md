@@ -5,7 +5,6 @@ Este es un proyecto, que consiste en un buscador de películas y series desarrol
 ## Índice
 - [Descripción](#descripción)
 - [Características](#características)
-- [Instalación](#instalación)
 - [Uso](#uso)
 - [Tecnologías](#tecnologías)
 - [Contribuciones](#contribuciones)
